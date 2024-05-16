@@ -32,7 +32,8 @@ class ViewController: UIViewController {
         .systemYellow,
         .systemTeal,
         .systemPink,
-        .systemPurple]
+        .systemPurple,
+        .systemGreen]
     
     override func viewDidLoad() {
         super.viewDidLoad()
